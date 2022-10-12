@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35115e32.css",
+    "main.js": "/static/js/main.d2aab4be.js",
+    "static/js/787.0d0ed212.chunk.js": "/static/js/787.0d0ed212.chunk.js",
+    "static/media/banner1.jpg": "/static/media/banner1.f69d5f3b512cd5e588e5.jpg",
+    "static/media/pirelli.jpg": "/static/media/pirelli.5ecc9b4266364ed1eb8b.jpg",
+    "static/media/nosotros.jpg": "/static/media/nosotros.65c516739c64058c42fa.jpg",
+    "index.html": "/index.html",
+    "main.35115e32.css.map": "/static/css/main.35115e32.css.map",
+    "main.d2aab4be.js.map": "/static/js/main.d2aab4be.js.map",
+    "787.0d0ed212.chunk.js.map": "/static/js/787.0d0ed212.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35115e32.css",
+    "static/js/main.d2aab4be.js"
+  ]
+}
